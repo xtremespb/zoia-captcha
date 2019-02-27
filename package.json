@@ -1,14 +1,15 @@
 {
   "name": "zoia-captcha",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Captcha image generator based on JIMP",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react",
+    "native",
     "captcha",
+    "security",
     "jimp"
   ],
   "author": "Michael Matveev <xtreme@rh1.ru> (re-hash.ru)",
